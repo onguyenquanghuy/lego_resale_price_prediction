@@ -69,7 +69,7 @@ def output(products_list, search_term):
 def main():
     # products_list = []
     search_term = 'lego'
-    for x in range(1,54):
+    for x in range(1,56):
         url = f'https://www.ebay.co.uk/sch/i.html?_from=R40&_nkw={search_term}&_sacat=0&LH_Sold=1&LH_Complete=1&rt=nc&LH_ItemCondition=1000&_pgn={str(x)}'
         soup = get_data(url)
         products_list = parse(soup)
