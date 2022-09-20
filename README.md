@@ -18,9 +18,8 @@ Methodology:
 
 
 
-
 REFERENCES
 
 [1] Brickeconomy.com. 2022. About | BrickEconomy. [online] Available at: <https://www.brickeconomy.com/about>.
 
-[2]Dobrynskaya, V. and Kishilova, J., 2022. LEGO: THE TOY OF SMART INVESTORS. Research in International Business and Finance, 59, p.101539.
+[2] Dobrynskaya, V. and Kishilova, J., 2022. LEGO: THE TOY OF SMART INVESTORS. Research in International Business and Finance, 59, p.101539.
